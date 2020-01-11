@@ -1,9 +1,8 @@
 # Average buffer
-The main goal of this implementation was to create a generic "write only" buffer.
+The main goal of this implementation is to create a generic "write only" buffer.
 The buffer will grow by one node each time a new data is inserted into it, once
 full buffer capacity is reached (capacity to be provided by the user), oldest
-sample will be removed and newest to be inserted in its place. 
-
+data will be removed and newest to be inserted in its place. 
 
 ### Assumptions and considerations
 * No STL data structures to be used
