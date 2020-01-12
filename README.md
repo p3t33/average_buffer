@@ -25,8 +25,8 @@ clone the project by typing in the command line:
 git clone https://github.com/p3t33/average_buffer.git
 ```
 
-### Compiling and running the server and clients
-In order to compile source code to binary and run the 3 clients and server: 
+### Compiling and running code
+In order to compile source code to binary:
 ```sh
 ./compile_run_and_test.sh
 ```
