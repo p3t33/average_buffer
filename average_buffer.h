@@ -17,6 +17,7 @@
 /*                                                      standard  directories */
 /*                                                      ~~~~~~~~~~~~~~~~~~~~~ */
 #include <memory> // std::shared_ptr
+#include <iostream> // std::cout
 /*============================================================================*/
 
 namespace med
